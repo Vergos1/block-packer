@@ -11,6 +11,8 @@ Block packing tool — optimal placement of blocks on a sheet using a binary tre
 
 Block Packer is a tool for optimally placing differently sized blocks onto sheets with minimal wastage. Uses a binary tree bin packing algorithm to calculate the most efficient layout. Users can define custom block and sheet sizes through an interactive UI.
 
+🔗 **Live:** [block-packer](https://block-packer.vercel.app/)
+
 ## Features
 
 - **Binary tree bin packing** — efficient algorithm for optimal block placement
